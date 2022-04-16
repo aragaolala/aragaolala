@@ -11,4 +11,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aragaolala&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=6612DD&background=000000&border=DDDDDDAF&stroke=DDDDDD63&fire=DD3F3F&currStreakLabel=7CDD0A&sideNums=7CDD0A&dates=DDDDDD&sideLabels=6612DD)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/seu-usuário-aqui/aragaolala/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aragaolala/aragaolala/blob/output/github-contribution-grid-snake.svg)
