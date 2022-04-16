@@ -7,7 +7,7 @@
 ##### I am a Social Scientist in career transition and Front-End student at Laboratória. It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
 ---
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/aragaolala/blob/output/github-contribution-grid-snake.svg)
 
 
 
