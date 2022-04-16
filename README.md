@@ -1,10 +1,11 @@
-
-### Olá, como vai? Por aqui estou construindo minha jornada de dev 🤘🏼
+![Twitch Banner](https://user-images.githubusercontent.com/72772467/163661016-1bb26845-d321-49c7-aae9-3c38dfcc29ab.png)
+### Olá, como vai? Por aqui estou construindo minha jornada dev.🤘🏼
 ### 👩🏽‍💻 Sou uma Cientista Social, em transição de carreira, e estudante de Front-End pela Laboratória. Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). 
 
-##### EN: Hi, how are you? Here I'm building my dev journey. 
+##### EN: Hi, how are you? Here I'm building my journey in development.
 ##### I am a Social Scientist in career transition and Front-End student at Laboratória. It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
 ---
+
 
 
 
