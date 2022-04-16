@@ -1,10 +1,22 @@
-![Twitch Banner](https://user-images.githubusercontent.com/72772467/163661619-c61efab3-4970-42fa-962e-44e106bb6d1a.png)
+![Twitch Banner](https://user-images.githubusercontent.com/72772467/163682169-d86fa3dc-98ea-4d99-9720-9d7f6ff51a13.png)
+
 
 ### Olá, como vai? Por aqui estou construindo minha jornada dev.🤘🏼
-### 👩🏽‍💻 Sou uma Cientista Social, em transição de carreira, e estudante de Front-End pela Laboratória. Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). 
+### 👩🏽‍💻 Sou uma Cientista Social, em transição de carreira, e estudante de Front-End pela Laboratória. 
+- Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). 
 
-##### EN: Hi, how are you? Here I'm building my journey in development.
-##### I am a Social Scientist in career transition and Front-End student at Laboratória. It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
+#### 🧐 Curiosidades não requisitadas sobre mim: 
+ 1. Tenho muito medo de minhoca. Não sei porque. 
+ 2. O universo me fascina e acho que já vi um "satélite" muito suspeito uma vez. 🛸
+ 
+---- 
+##### EN: Hi, how are you? Here I'm building my journey in development. <br>
+I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
+It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
+
+##### Random facts about me (you didn't ask):
+1. I'm terrified of worms. Don't know why.
+2. The universe fascinates me and I think I've seen a very suspicious "satellite" once.
 ---
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragaolala&hide=html&layout=compact&theme=synthwave"/>
