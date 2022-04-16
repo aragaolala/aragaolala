@@ -1,4 +1,4 @@
-![Twitch Banner](https://user-images.githubusercontent.com/72772467/163661570-52e2f183-621b-4f5b-8cc0-f754fb00f621.png)
+![Twitch Banner](https://user-images.githubusercontent.com/72772467/163661619-c61efab3-4970-42fa-962e-44e106bb6d1a.png)
 
 ### Olá, como vai? Por aqui estou construindo minha jornada dev.🤘🏼
 ### 👩🏽‍💻 Sou uma Cientista Social, em transição de carreira, e estudante de Front-End pela Laboratória. Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). 
