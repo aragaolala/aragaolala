@@ -10,11 +10,11 @@
  2. O universo me fascina e acho que já vi um "satélite" muito suspeito uma vez. 🛸
  
 ---- 
-##### EN: Hi, how are you? Here I'm building my journey in development. <br>
-I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
+EN: Hi, how are you? Here I'm building my journey in development. <br>
+<br>I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
 It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
 
-##### Random facts about me (you didn't ask):
+Random facts about me (you didn't ask):
 1. I'm terrified of worms. Don't know why.
 2. The universe fascinates me and I think I've seen a very suspicious "satellite" once.
 ---
