@@ -3,7 +3,8 @@
 
 ### Olá, como vai? Por aqui estou construindo minha jornada dev.🤘🏼
 ### 👩🏽‍💻 Sou uma Cientista Social, em transição de carreira, e estudante de Front-End pela Laboratória. 
-- Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). 
+- Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). <br>
+Ainda, enquanto cientista social, acredito no compromisso em gerar impactos positivos à sociedade e, por meio do desenvolvimento, esta ambição tem se tornado possível.
 
 #### 🧐 Curiosidades não requisitadas sobre mim: 
  1. Tenho muito medo de minhoca. Não sei porque. 
@@ -12,7 +13,9 @@
 ---- 
 EN: Hi, how are you? Here I'm building my journey in development. <br>
 <br>I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
-It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
+- It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology). <br>
+Also, as a social scientist, I believe in the commitment to generate positive impacts on society and, through development, <br>
+this ambition has become possible.
 
 Random facts about me (you didn't ask):
 1. I'm terrified of worms. Don't know why.
