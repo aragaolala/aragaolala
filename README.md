@@ -4,7 +4,8 @@
 ### Olá, como vai? Por aqui estou construindo minha jornada dev.🤘🏼
 ### 👩🏽‍💻 Sou uma Cientista Social, em transição de carreira, e estudante de Front-End pela Laboratória. 
 - Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). <br>
-Ainda, enquanto cientista social, acredito no compromisso em gerar impactos positivos à sociedade e, por meio do desenvolvimento, esta ambição tem se tornado possível.
+Ainda, enquanto cientista social, acredito no compromisso em gerar impactos positivos à sociedade e, por meio do desenvolvimento, esta ambição tem se tornado possível. <a href="https://www.linkedin.com/in/layssaaragaob/">Meu Linkedin</a>
+
 
 #### 🧐 Curiosidades não requisitadas sobre mim: 
  1. Tenho muito medo de minhoca. Não sei porque. 
