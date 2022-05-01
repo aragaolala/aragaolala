@@ -1,28 +1,29 @@
 ![Twitch Banner](https://user-images.githubusercontent.com/72772467/163682169-d86fa3dc-98ea-4d99-9720-9d7f6ff51a13.png)
 
 
-### Olá, como vai? Por aqui estou construindo minha jornada dev.🤘🏼
-### 👩🏽‍💻 Socióloga, em transição de carreira, e estudante de Front-End pela Laboratória. 
+### Olá, como vai? Por aqui estou construindo minha jornada dev. 🤘🏼 <br> Sou socióloga, em transição de carreira, e estudante de Front-End pela Laboratória. 
 #### Tenho 99 bugs e criei todos eles #socorrrrrr 
-- Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). <br>
-- Ainda, enquanto cientista social, acredito no compromisso em gerar impactos positivos à sociedade e, por meio do desenvolvimento, esta ambição tem se tornado possível. <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
-- O que estou aprendendo hoje: JavaScript, CSS, UX e UI. 
+- 👩🏽‍💻 Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). <br>
+- ⚡️ Ainda, enquanto cientista social, acredito no compromisso em gerar impactos positivos à sociedade e, por meio do desenvolvimento, esta ambição tem se tornado possível. <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
+- 📚 O que estou aprendendo hoje: JavaScript, CSS, UX e UI. 
 
 
-#### 🧐 Curiosidades não requisitadas sobre mim: 
- 1. Tenho muito medo de minhoca. Não sei porque. 
- 2. O universo me fascina e acho que já vi um "satélite" muito suspeito uma vez. 🛸
+#### Curiosidades não requisitadas sobre mim: 
+ 1. Adoro cerveja artesanal - stout e red ale, de preferência - e coleciono as tampinhas. 
+ 2. Minha playlist vai de pagode anos 90 à Machine Head.
+ 3. Quando criança queria ser arqueóloga e viver as aventuras do Indiana Jones. 
  
 ---- 
-EN: Hi, how are you? Here I'm building my journey in development. <br>
-<br>I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
+EN: Hi, how are you? Here I'm building my journey in development. <br> I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
 - It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology). <br>
-Also, as a social scientist, I believe in the commitment to generate positive impacts on society and, through development, <br>
+- Also, as a social scientist, I believe in the commitment to generate positive impacts on society and, through development, <br>
 this ambition has become possible.
+- What I'm learning: JavaScript, CSS, UX e UI
 
 Random facts about me (you didn't ask):
-1. I'm terrified of worms. Don't know why.
-2. The universe fascinates me and I think I've seen a very suspicious "satellite" once.
+1. I love craft beer - stout and red ale, preferably - and I collect its caps.
+2. My playlist goes from Destiny's Child to Machine Head.
+3. As a child, I wanted to be an archaeologist and live the adventures of Indiana Jones.
 ---
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragaolala&hide=html&layout=compact&theme=synthwave"/>
