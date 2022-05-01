@@ -1,5 +1,4 @@
-![Twitch Banner](https://user-images.githubusercontent.com/72772467/163682169-d86fa3dc-98ea-4d99-9720-9d7f6ff51a13.png)
-
+![Twitch Banner (3)](https://user-images.githubusercontent.com/72772467/166167763-3d8efa8b-f9de-46b1-ab31-53af9873a055.gif)
 
 ### Olá, como vai? Por aqui estou construindo minha jornada dev. 🤘🏼 <br> Sou socióloga, em transição de carreira, e estudante de Front-End pela Laboratória. 
 #### Tenho 99 bugs e criei todos eles #socorrrrrr 
