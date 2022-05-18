@@ -3,6 +3,7 @@
 ### Olá, como vai? Por aqui estou construindo minha jornada dev. 🤘🏼 <br> Sou socióloga, em transição de carreira, e estudante de Front-End pela Laboratória. 
 #### Tenho 99 bugs e criei todos eles #socorrrrrr 
 - 👩🏽‍💻 Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). <br>
+- Soft skills: empatia, escuta ativa e comununicação assertiva. Adoro trabalhar o equipe, discutir solucões e ver todo mundo se ajudando e crescendo junto!
 - ⚡️ Ainda, enquanto cientista social, acredito no compromisso em gerar impactos positivos à sociedade e, por meio do desenvolvimento, esta ambição tem se tornado possível. <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
 - 📚 O que estou aprendendo hoje: JavaScript, CSS, UX e UI. 
 
