@@ -4,7 +4,7 @@
 #### Tenho 99 bugs e criei todos eles #socorrrrrr 
 - 👩🏽‍💻 Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). <br>
 - 💪🏼 Soft skills: empatia, escuta e comunicação. Gosto de trabalhar em equipe, discutir soluções e ver todo mundo se ajudando e crescendo junto.
-- 📚 O que estou aprendendo hoje: JavaScript, CSS, UX e UI. 
+- 📚 O que estou aprendendo hoje: JavaScript, React, CSS, UX e UI. 
 - ⚡️ Ainda, enquanto cientista social, acredito no compromisso em gerar impactos positivos à sociedade e, por meio do desenvolvimento, esta ambição tem se tornado possível. <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
 
 
@@ -27,7 +27,7 @@ EN: Hi, how are you? Here I'm building my journey in development. <br> I am a So
 - It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology). <br>
 - Also, as a social scientist, I believe in the commitment to generate positive impacts on society and, through development, <br>
 this ambition has become possible.
-- What I'm learning: JavaScript, CSS, UX e UI
+- What I'm learning: JavaScript, React, CSS, UX e UI
 
 Random facts about me (you didn't ask):
 1. I love craft beer - stout and irish red ale - and I collect its caps.
