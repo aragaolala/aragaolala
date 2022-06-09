@@ -21,10 +21,9 @@
  
 ---- 
 EN: Hi, how are you? Here I'm building my journey in development. <br> I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
-- It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology). <br>
-- Also, as a social scientist, I believe in the commitment to generate positive impacts on society and, through development, <br>
-this ambition has become possible.
-- What I'm learning: JavaScript, React, CSS, UX e UI
+👩🏽‍💻 It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
+💪🏼 I am very curious and love to learn, which gives me proactivity and responsibility for my learning process. I also like to work as a team, discuss solutions and see everyone helping each other and growing together.
+📚 What I'm learning today: JavaScript, React, CSS, UX and UI. 
 
 Random facts about me (you didn't ask):
 1. I love craft beer - stout and irish red ale - and I collect its caps.
