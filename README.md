@@ -1,6 +1,6 @@
 ![Twitch Banner (4)](https://user-images.githubusercontent.com/72772467/166167852-4620c147-2405-4216-b61a-1fb0653c7301.gif)
 
-### Olá, como vai? Por aqui estou construindo minha jornada dev. 🤘🏼 <br> Sou socióloga, em transição de carreira, estudante de Front-End pela Laboratória e graduanda em Engenharia de Software. 
+### Olá, como vai? Por aqui estou construindo minha jornada dev. 🤘🏼 <br> Sou estudante de Front-End pela Laboratória e graduanda em Engenharia de Software. 
 #### Tenho 99 bugs e criei todos eles #socorrrrrr 
 - 👩🏽‍💻 Tem sido uma jornada e tanto: um novo dia, um novo desafio, mas nunca tédio (é isso que eu amo na tecnologia). <br>
 - 💪🏼 Sou muito curiosa e adoro aprender, o que me oferece proatividade e responsabilidade pelo meu processo de aprendizagem. Também gosto de trabalhar em equipe, discutir soluções e ver todo mundo se ajudando e crescendo junto. 
