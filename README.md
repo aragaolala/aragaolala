@@ -9,7 +9,7 @@
 
 
 
-- 💪🏼 Sou curiosa, organizada e criativa. Tenho empatia e gosto de ambientes colaborativos <br> e de crescer junto com uma equipe. <br>
+- 💪🏼 Sou curiosa, organizada e criativa. Tenho empatia e gosto de ambientes colaborativos e de crescer junto com uma equipe. <br>
 - 👩🏽‍💻 O que estou aprendendo hoje: JavaScript, React, CSS, UX e UI.  <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
 
 
