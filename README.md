@@ -1,9 +1,17 @@
-![Twitch Banner (4)](https://user-images.githubusercontent.com/72772467/166167852-4620c147-2405-4216-b61a-1fb0653c7301.gif)
+
+
+
 
 ### Olá, como vai? <br> Sou Front-End dev pela Laboratória e graduanda em Engenharia de Software. 
+<img align="right" alt="we can code this" width="300" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47dfe4hpfb3mqgluls4riijo1tebz4xhs8m6jpei3g&rid=giphy.gif&ct=g" />
+
 #### Tenho 99 bugs e criei todos eles #socorrrrrr 
-- 💪🏼 Sou muito curiosa e adoro aprender. Também gosto de trabalhar em equipe, discutir soluções e ver todo mundo se ajudando e crescendo junto. 
+
+
+
+- 💪🏼 Sou curiosa, organizada e criativa. Tenho empatia e gosto de ambientes colaborativos e de crescer junto com uma equipe.
 - 👩🏽‍💻 O que estou aprendendo hoje: JavaScript, React, CSS, UX e UI.  <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
+
 
 #### Curiosidades não requisitadas sobre mim: 
  1. Adoro cerveja artesanal - stout e red ale - e coleciono as tampinhas. 
