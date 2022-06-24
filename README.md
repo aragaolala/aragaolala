@@ -14,7 +14,7 @@
 
 
 #### Curiosidades não requisitadas sobre mim: 
- 1. Adoro cerveja artesanal - stout e red ale - e coleciono as tampinhas. 
+ 1. Adoro cerveja artesanal e coleciono as tampinhas. 
  2. Minha playlist vai de pagode anos 90 à Machine Head.
  3. Quando criança queria ser arqueóloga e viver as aventuras do Indiana Jones.  
 
