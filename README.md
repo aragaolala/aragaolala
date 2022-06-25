@@ -20,7 +20,7 @@
 
  
 ---- 
-EN: Hi, how are you? Here I'm building my journey in development. <br> I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
+<!-- EN: Hi, how are you? Here I'm building my journey in development. <br> I am a Social Scientist in career transition and Front-End student at Laboratória. <br>
 👩🏽‍💻 It's been quite a journey: a new day, a new challenge, but never boredom (that's what I love about technology).
 💪🏼 I am very curious and love to learn, which gives me proactivity and responsibility for my learning process. I also like to work as a team, discuss solutions and see everyone helping each other and growing together.
 📚 What I'm learning today: JavaScript, React, CSS, UX and UI. 
