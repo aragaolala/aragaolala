@@ -2,8 +2,10 @@
 
 ### Olá, como vai? <br> Sou Front-End dev pela Laboratória e graduanda em Engenharia de Software. 
 
-- 💪🏼 Sou curiosa, organizada e criativa. Tenho empatia e gosto de ambientes colaborativos e de crescer junto com uma equipe. <br>
-- 👩🏽‍💻 O que estou aprendendo hoje: JavaScript, React, CSS, UX e UI.  <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
+- 💪🏼 Sou curiosa, organizada e criativa. Tenho empatia, escuta ativa, boa comunicação e gosto de ambientes colaborativos. <br>
+- 👩🏽‍💻 O que estou aprendendo hoje: React, JavaScript, CSS, UX e UI.  <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
+- 🚀 Objetivos: aplicar e expandir minhas hard e soft skills em um ambiente inovador, ambicioso e cooperativo; ser uma profissional comprometida com meu time e crescer junto com ele. 
+
 
 #### Curiosidades não requisitadas sobre mim: 
  1. Adoro cerveja artesanal e coleciono as tampinhas. 
