@@ -1,10 +1,10 @@
-<img align="right" alt="we can code this" width="250" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47dfe4hpfb3mqgluls4riijo1tebz4xhs8m6jpei3g&rid=giphy.gif&ct=g" />
+<img align="right" alt="we can code this" width="230" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47dfe4hpfb3mqgluls4riijo1tebz4xhs8m6jpei3g&rid=giphy.gif&ct=g" />
 
 ### Olá, como vai? <br> Sou Dev Front-end Jr. pela Laboratória e graduanda em Engenharia de Software. 
 
 - 💪🏼 Sou curiosa, organizada e criativa. Tenho empatia, escuta ativa, boa comunicação e gosto de ambientes colaborativos. <br>
 - 👩🏽‍💻 O que estou aprendendo hoje: React, JavaScript, CSS, UX e UI.  <a href="https://www.linkedin.com/in/layssaaragaob/" target="_blank">Meu Linkedin</a> <br>
-- 🚀 Objetivos: aplicar e expandir minhas hard e soft skills em um ambiente inovador, ambicioso e cooperativo; ser uma profissional comprometida com meu time e crescer junto com ele. 
+- 🚀 Objetivos: aplicar e expandir minhas hard e soft skills em um ambiente inovador, ambicioso e cooperativo; <br> ser uma profissional comprometida com meu time e crescer junto com ele. 
 
 
 #### Curiosidades não requisitadas sobre mim: 
