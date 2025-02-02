@@ -1,6 +1,5 @@
 <img align="right" alt="we can code this" width="230" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47dfe4hpfb3mqgluls4riijo1tebz4xhs8m6jpei3g&rid=giphy.gif&ct=g" />
 Rebuilding this bio.
-![Banner do LinkedIn]([URL_DA_IMAGEM](https://www.flaticon.com/free-icon/linkedin_174857))
 
 
 ###
