@@ -3,9 +3,9 @@ Rebuilding this bio. Meanwhile...
 
 ###
 Some unrequested curiosities about me: 
-I love craft beer and collect the caps. 
-My playlist ranges from 90s pagode (this only brazilians relate, sorry, but think in terms of paradox) to Machine Head. 
-As a child, I wanted to be an archaeologist and live out the adventures of Indiana Jones.
+#I love craft beer and collect the caps. 
+#My playlist ranges from 90s pagode (this only brazilians relate, sorry, but think in terms of paradox) to Machine Head. 
+#As a child, I wanted to be an archaeologist and live out the adventures of Indiana Jones.
 
 
 ---
