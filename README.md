@@ -5,6 +5,7 @@ Rebuilding this bio. Meanwhile, some unrequested curiosities about me: <br>
 
 
 ---
+Yeah... This is not looking good. Hope git can forgive my absence; im coming back this year. 
 ![Layssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aragaolala&theme=tokyonight&show_icons=true)
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragaolala&hide=html&layout=compact&theme=synthwave"/>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aragaolala)
