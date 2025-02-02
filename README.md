@@ -1,7 +1,8 @@
-<img align="right" alt="we can code this" width="230" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47dfe4hpfb3mqgluls4riijo1tebz4xhs8m6jpei3g&rid=giphy.gif&ct=g" />
 Rebuilding this bio. Meanwhile, some unrequested curiosities about me: 
-_love craft beer and collect the caps. 
+_I love craft beer and collect the caps.
+
 _My playlist ranges from 90s pagode (this only brazilians relate, sorry, but think in terms of paradox) to Machine Head. 
+
 _As a child, I wanted to be an archaeologist and live out the adventures of Indiana Jones.
 
 
